@@ -1,0 +1,30 @@
+body {
+    background-color: #fcf8f2; 
+    font-family: Arial, sans-serif; 
+    
+    
+    display: flex;
+    flex-direction: column;  
+    align-items: center;     
+    justify-content: center;  
+    min-height: 100vh;       
+    margin: 0;                
+    text-align: center;       
+}
+
+h1 {
+    color: #d35400; 
+    text-shadow: 1px 1px 3px #000000;
+    margin-bottom: 0;        
+}
+p {
+    color: #2c3e50; 
+}
+img {
+    max-width: 100%;          
+    height: auto;
+}
+a {
+    color: #062ef5; 
+    font-weight: bold; 
+}
